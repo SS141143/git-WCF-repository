@@ -1,0 +1,9 @@
+C:\dotnet data\Pandian\Assignment-21\WCFCalculatorService\HostCalculatorService\obj\Debug\HostCalculatorService.csprojResolveAssemblyReference.cache
+C:\dotnet data\Pandian\Assignment-21\WCFCalculatorService\HostCalculatorService\bin\Debug\HostCalculatorService.exe.config
+C:\dotnet data\Pandian\Assignment-21\WCFCalculatorService\HostCalculatorService\bin\Debug\HostCalculatorService.exe
+C:\dotnet data\Pandian\Assignment-21\WCFCalculatorService\HostCalculatorService\bin\Debug\HostCalculatorService.pdb
+C:\dotnet data\Pandian\Assignment-21\WCFCalculatorService\HostCalculatorService\bin\Debug\WCFService.dll
+C:\dotnet data\Pandian\Assignment-21\WCFCalculatorService\HostCalculatorService\bin\Debug\WCFService.pdb
+C:\dotnet data\Pandian\Assignment-21\WCFCalculatorService\HostCalculatorService\bin\Debug\WCFService.dll.config
+C:\dotnet data\Pandian\Assignment-21\WCFCalculatorService\HostCalculatorService\obj\Debug\HostCalculatorService.exe
+C:\dotnet data\Pandian\Assignment-21\WCFCalculatorService\HostCalculatorService\obj\Debug\HostCalculatorService.pdb

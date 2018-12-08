@@ -1,0 +1,5 @@
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask\bin\Debug\WCFServiceTask.dll.config
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask\bin\Debug\WCFServiceTask.dll
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask\bin\Debug\WCFServiceTask.pdb
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask\obj\Debug\WCFServiceTask.dll
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask\obj\Debug\WCFServiceTask.pdb

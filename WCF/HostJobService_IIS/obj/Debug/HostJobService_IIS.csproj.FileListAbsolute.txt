@@ -1,0 +1,9 @@
+C:\FSE\Pandian\Assignment-21\HostJobService_IIS\bin\HostJobService_IIS.dll.config
+C:\FSE\Pandian\Assignment-21\HostJobService_IIS\bin\HostJobService_IIS.dll
+C:\FSE\Pandian\Assignment-21\HostJobService_IIS\bin\HostJobService_IIS.pdb
+C:\FSE\Pandian\Assignment-21\HostJobService_IIS\bin\JobOpeninigWCFService.dll
+C:\FSE\Pandian\Assignment-21\HostJobService_IIS\bin\JobOpeninigWCFService.pdb
+C:\FSE\Pandian\Assignment-21\HostJobService_IIS\bin\JobOpeninigWCFService.dll.config
+C:\FSE\Pandian\Assignment-21\HostJobService_IIS\obj\Debug\HostJobService_IIS.csprojResolveAssemblyReference.cache
+C:\FSE\Pandian\Assignment-21\HostJobService_IIS\obj\Debug\HostJobService_IIS.dll
+C:\FSE\Pandian\Assignment-21\HostJobService_IIS\obj\Debug\HostJobService_IIS.pdb

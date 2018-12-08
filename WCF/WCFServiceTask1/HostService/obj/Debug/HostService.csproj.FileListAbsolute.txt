@@ -1,0 +1,9 @@
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask1\HostService\bin\Debug\HostService.exe.config
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask1\HostService\bin\Debug\HostService.exe
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask1\HostService\bin\Debug\HostService.pdb
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask1\HostService\bin\Debug\WCFServiceTask.dll
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask1\HostService\bin\Debug\WCFServiceTask.pdb
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask1\HostService\bin\Debug\WCFServiceTask.dll.config
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask1\HostService\obj\Debug\HostService.csprojResolveAssemblyReference.cache
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask1\HostService\obj\Debug\HostService.exe
+C:\dotnet data\Pandian\Assignment-21\WCFServiceTask1\HostService\obj\Debug\HostService.pdb

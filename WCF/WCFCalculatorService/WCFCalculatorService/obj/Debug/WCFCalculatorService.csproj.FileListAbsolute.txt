@@ -1,0 +1,1 @@
+C:\dotnet data\Pandian\Assignment-21\WCFCalculatorService\WCFCalculatorService\obj\Debug\WCFCalculatorService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\dotnet data\Pandian\Assignment-21\JobOpeninigWCFService\bin\Debug\JobOpeninigWCFService.dll.config
+C:\dotnet data\Pandian\Assignment-21\JobOpeninigWCFService\bin\Debug\JobOpeninigWCFService.dll
+C:\dotnet data\Pandian\Assignment-21\JobOpeninigWCFService\bin\Debug\JobOpeninigWCFService.pdb
+C:\dotnet data\Pandian\Assignment-21\JobOpeninigWCFService\obj\Debug\JobOpeninigWCFService.dll
+C:\dotnet data\Pandian\Assignment-21\JobOpeninigWCFService\obj\Debug\JobOpeninigWCFService.pdb
+C:\FSE\Pandian\Assignment-21\JobOpeninigWCFService\bin\Debug\JobOpeninigWCFService.dll.config
+C:\FSE\Pandian\Assignment-21\JobOpeninigWCFService\bin\Debug\JobOpeninigWCFService.dll
+C:\FSE\Pandian\Assignment-21\JobOpeninigWCFService\bin\Debug\JobOpeninigWCFService.pdb
+C:\FSE\Pandian\Assignment-21\JobOpeninigWCFService\obj\Debug\JobOpeninigWCFService.dll
+C:\FSE\Pandian\Assignment-21\JobOpeninigWCFService\obj\Debug\JobOpeninigWCFService.pdb
